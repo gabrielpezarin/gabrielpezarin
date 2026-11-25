@@ -13,10 +13,7 @@
 <br><br>
 
 <div>
-  <a href="https://tryhackme.com" target="_blank">
-    <img src="[https://tryhackme.com](https://tryhackme.com/p/gabrielhepezarin?tab=badges)" alt="TryHackMe Badge" />
+  <a href="https://tryhackme.com/p/gabrielhepezarin" target="_blank">
+    <img src="https://shields.io" alt="TryHackMe Badge" />
   </a>
 </div>
-
-
-
