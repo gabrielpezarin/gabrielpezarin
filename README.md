@@ -1,7 +1,7 @@
 +## Hi there 👋
 <div>
   <a href="https://github.com/gabrielpezarin">
-    <img width="340" src="https://github-stats-extended.vercel.app/api?username=gabrielpezarin&show_icons=true&theme=dracula" />
+    <img height = "140" width="340" src="https://github-stats-extended.vercel.app/api?username=gabrielpezarin&show_icons=true&theme=dracula" />
     <img height="140" width="340" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gabrielpezarin&hide_progress=true&show_icons=true&theme=dracula" />
   </a>
 </div>
