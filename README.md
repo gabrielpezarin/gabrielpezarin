@@ -1,8 +1,8 @@
 +## Hi there 👋
 <div align="center">
   <a href="https://github.com/gabrielpezarin">
-    <img  width="380" height = "165" src="https://github-stats-extended.vercel.app/api?username=gabrielpezarin&show_icons=true&theme=dracula" />
-    <img  width="380" height="165"  src="https://github-stats-extended.vercel.app/api/top-langs/?username=gabrielpezarin&show_icons=true&theme=dracula" />
+    <img  width="380" height = "165" src="https://github-stats-extended.vercel.app/api?username=gabrielpezarin&show_icons=true&theme=dark" />
+    <img  width="380" height="165"  src="https://github-stats-extended.vercel.app/api/top-langs/?username=gabrielpezarin&show_icons=true&theme=dark" />
   </a>
 </div>
 
