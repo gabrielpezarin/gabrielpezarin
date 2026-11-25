@@ -1,8 +1,8 @@
 +## Hi there 👋
 <div>
   <a href="https://github.com/gabrielpezarin">
-   <img height="200cm" src=https://github-stats-extended.vercel.app/api?username=gabrielpezarin (https://github.com/stats-organization/github-stats-extended)>
-<img height="200cm" src=https://github-stats-extended.vercel.app/api/top-langs/?username=gabrielpezarin&hide_progress=true)>
+   <img height="150cm" src=https://github-stats-extended.vercel.app/api?username=gabrielpezarin (https://github.com/stats-organization/github-stats-extended)>
+<img height="150cm" src=https://github-stats-extended.vercel.app/api/top-langs/?username=gabrielpezarin&hide_progress=true)>
 
 
 
