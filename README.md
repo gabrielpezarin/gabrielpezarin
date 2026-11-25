@@ -1,7 +1,7 @@
 ## Hi there 👋
 <div>
   <a href="https://github.com/gabrielpezarin">
-   <img height="100cm" src=https://github-stats-extended.vercel.app/api?username=gabrielpezarin (https://github.com/stats-organization/github-stats-extended)
+   <img height="100cm" src=https://github-stats-extended.vercel.app/api?username=gabrielpezarin (https://github.com/stats-organization/github-stats-extended)>
 
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=gabrielpezarin&hide_progress=true)
