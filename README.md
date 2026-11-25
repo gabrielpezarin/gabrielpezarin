@@ -18,3 +18,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com" />
   <img alt="github-snake" src="https://githubusercontent.com" />
 </picture>
+<script src="https://tryhackme.com/badge/t/1742f2585e713bbd159f8a58a7a65f6b14009db51185ba76ba5001244221ae33843ddab998481c37c62c26191c457a29?theme=dark"></script>
