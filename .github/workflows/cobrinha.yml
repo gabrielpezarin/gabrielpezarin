@@ -1,22 +1,25 @@
 name: Snake
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule: # executa a cada 12 horas
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       # Snake Animation
       - uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: gabrielpezarin
-          outputs:
+          outputs: |
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif?palette=github
 
       - uses: crazy-max/ghaction-github-pages@v4
@@ -25,4 +28,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  
+
