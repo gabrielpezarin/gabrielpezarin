@@ -3,7 +3,7 @@
   <a href="https://github.com/gabrielpezarin">
    <img height="150cm" src=https://github-stats-extended.vercel.app/api?username=gabrielpezarin&show_icons=true&theme=dracula>
 <img height="150cm" src=https://github-stats-extended.vercel.app/api/top-langs/?username=gabrielpezarin&hide_progress=true&show_icons=true&theme=dracula>
-
+  </div>
 
 
 <div style="display: inline_block"><br>
