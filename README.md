@@ -14,7 +14,7 @@
 
 <div>
   <a href="https://tryhackme.com" target="_blank">
-    <img src="https://tryhackme.com" alt="TryHackMe Badge" />
+    <img src="[https://tryhackme.com](https://tryhackme.com/p/gabrielhepezarin?tab=badges)" alt="TryHackMe Badge" />
   </a>
 </div>
 
